@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">15dp</dimen>
+    <dimen name="layout_margin20dp">20dp</dimen>
+    <dimen name="texto_very_small">10sp</dimen>
+    <dimen name="texto_small">15sp</dimen>
+    <dimen name="texto_medium">20sp</dimen>
+    <dimen name="texto_grande">25sp</dimen>
+    <dimen name="layout_padding">10dp</dimen>
+    <dimen name="layout_margin10dp">10dp</dimen>
+    <dimen name="layout_margin5dp">5dp</dimen>
+    <dimen name="appbar_padding_top">5dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

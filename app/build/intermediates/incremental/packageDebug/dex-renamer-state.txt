@@ -1,0 +1,7 @@
+#Sat Jul 15 09:57:44 COT 2017
+base.0=C\:\\Users\\RICARDO\\AndroidStudioProjects\\SistemaEncuestaEstudiantil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c2d145c5d3f1e051b92de9abd94e6a13b1c13fa5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\RICARDO\\AndroidStudioProjects\\SistemaEncuestaEstudiantil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4e6844ea60b922d92bfdc4b937c20b9b65f1d841\\classes.dex
+base.1=C\:\\Users\\RICARDO\\AndroidStudioProjects\\SistemaEncuestaEstudiantil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4e6844ea60b922d92bfdc4b937c20b9b65f1d841
+file.0=C\:\\Users\\RICARDO\\AndroidStudioProjects\\SistemaEncuestaEstudiantil\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c2d145c5d3f1e051b92de9abd94e6a13b1c13fa5\\classes.dex

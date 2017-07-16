@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "150073081557",
+    "firebase_url": "https://encuesta-estudiantil.firebaseio.com",
+    "project_id": "encuesta-estudiantil",
+    "storage_bucket": "encuesta-estudiantil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150073081557:android:6976eb5be8a22012",
+        "android_client_info": {
+          "package_name": "com.fisi.unmsm.sistemaencuestaestudiantil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150073081557-b393vg4oohf4bps49ts3jn3ka41iash3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fisi.unmsm.sistemaencuestaestudiantil",
+            "certificate_hash": "52f7e0db28a0801e2524ed2c058d0d2b75207bff"
+          }
+        },
+        {
+          "client_id": "150073081557-6cpr1an4k1c3p98590tt344cnq21rsdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6IT2MuCMqUtmRoRPGr-koC3e5o_T6Z4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150073081557-6cpr1an4k1c3p98590tt344cnq21rsdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

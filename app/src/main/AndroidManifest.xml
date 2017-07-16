@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fisi.unmsm.sistemaencuestaestudiantil">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/test"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/test"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.MenuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.EncuestaActivity"
+            android:parentActivityName=".activities.MenuActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activities.MenuActivity" />
+        </activity>
+        <activity
+            android:name=".activities.AdministradorActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SecondTheme" />
+        <activity
+            android:name=".activities.FinalizarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.ReportesActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/ReportesTheme" />
+        <activity
+            android:name=".activities.ConfiguracionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/ConfiguracionTheme" />
+    </application>
+
+</manifest>

@@ -1,0 +1,321 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\RICARDO\.android\build-cache\234da3a76d7c34f2b615ee504dcbbf95250586d5\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:7:5-53:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\RICARDO\.android\build-cache\eb229ad9bebb71aee33e9f9b88634bed257b2b1e\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\da5150f6901d5f71059ace6d219a708fd982b44b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\85bde1292e6c306fb06d3143955cf4d37af94de0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\c300a6877e78be07d94087b63ca83603d5a7ec68\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\d4434ff67597103ecb8a858466469eed0a7a05c9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\ffe68e76c8f6b2c1652d68e9ed7d724ee199c13b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\44b5a03dcbe10ec093b23334751dd95759635155\output\AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\RICARDO\.android\build-cache\dd92c37ad15f9a3e09732d69820b0d23b6fe6bf9\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.1] C:\Users\RICARDO\.android\build-cache\241a7bcb5d5e020f038a1d88d7d3709e37135350\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\RICARDO\.android\build-cache\8abe1ed82e0dc835c00964229ce0360e98cfc362\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.1] C:\Users\RICARDO\.android\build-cache\58b4437eb63bf38b9864fa9ca0f17ded104f3332\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\RICARDO\.android\build-cache\234da3a76d7c34f2b615ee504dcbbf95250586d5\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.1] C:\Users\RICARDO\.android\build-cache\734c28e1ba8d499fd6fcb4d93a8ba478f52abb7f\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\RICARDO\.android\build-cache\d754cabc1944d6de1b1732e30fe26bbfed2e09d5\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\RICARDO\.android\build-cache\62899c57f7354df5c3cbd1f62670f55215438a58\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\9361a9fa9de698745abb3ecfe80267ca3fb1cd8b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\d40b8c30fb1200d44cb13d66710a395b51cbae49\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\6c01c9b8778cfaade62c995dadeef9413b8ef71b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\ae6f74c8a3b2b6e3846d42b417744ece11a6c03c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\0afc0c085a570d3b6cc867814e66f58bdc15fd87\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\07ede37c14cccc5265926dc2395dccabbc188f21\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:9:9-38
+	android:theme
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.fisi.unmsm.sistemaencuestaestudiantil.activities.SplashActivity
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:screenOrientation
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:16:13-49
+	android:theme
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:15:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.fisi.unmsm.sistemaencuestaestudiantil.activities.LoginActivity
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:24:9-26:52
+	android:screenOrientation
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:25:13-53
+activity#com.fisi.unmsm.sistemaencuestaestudiantil.activities.MenuActivity
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:27:9-29:52
+	android:screenOrientation
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:28:13-52
+activity#com.fisi.unmsm.sistemaencuestaestudiantil.activities.EncuestaActivity
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:screenOrientation
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:33:13-49
+	android:parentActivityName
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:32:13-66
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:31:13-56
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:34:13-36:60
+	android:value
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:36:17-57
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:35:17-63
+activity#com.fisi.unmsm.sistemaencuestaestudiantil.activities.AdministradorActivity
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:38:9-41:50
+	android:screenOrientation
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:40:13-49
+	android:theme
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:41:13-47
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:39:13-61
+activity#com.fisi.unmsm.sistemaencuestaestudiantil.activities.FinalizarActivity
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:43:13-57
+activity#com.fisi.unmsm.sistemaencuestaestudiantil.activities.ReportesActivity
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:47:13-49
+	android:theme
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:46:13-56
+activity#com.fisi.unmsm.sistemaencuestaestudiantil.activities.ConfiguracionActivity
+ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:49:9-52:57
+	android:screenOrientation
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:51:13-49
+	android:theme
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml:50:13-61
+uses-sdk
+INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\RICARDO\.android\build-cache\eb229ad9bebb71aee33e9f9b88634bed257b2b1e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\da5150f6901d5f71059ace6d219a708fd982b44b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\85bde1292e6c306fb06d3143955cf4d37af94de0\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\c300a6877e78be07d94087b63ca83603d5a7ec68\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\d4434ff67597103ecb8a858466469eed0a7a05c9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\ffe68e76c8f6b2c1652d68e9ed7d724ee199c13b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\7f98fab2015069918415c5f82041c79e59e86cc1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\44b5a03dcbe10ec093b23334751dd95759635155\output\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\RICARDO\.android\build-cache\dd92c37ad15f9a3e09732d69820b0d23b6fe6bf9\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.0.1] C:\Users\RICARDO\.android\build-cache\241a7bcb5d5e020f038a1d88d7d3709e37135350\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\RICARDO\.android\build-cache\8abe1ed82e0dc835c00964229ce0360e98cfc362\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.1] C:\Users\RICARDO\.android\build-cache\c2021e866d7a4ce524576abe14f2fe97b7b15b89\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.1] C:\Users\RICARDO\.android\build-cache\f83852f017fbf3d34f378d9ae145732ea8030a7f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.1] C:\Users\RICARDO\.android\build-cache\e78a9eb9b49149d973abf668ccda096c5bf58a9b\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.1] C:\Users\RICARDO\.android\build-cache\529e72c27431f7a869ad158f4b00210979fc1e13\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.1] C:\Users\RICARDO\.android\build-cache\58b4437eb63bf38b9864fa9ca0f17ded104f3332\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\RICARDO\.android\build-cache\234da3a76d7c34f2b615ee504dcbbf95250586d5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.1] C:\Users\RICARDO\.android\build-cache\734c28e1ba8d499fd6fcb4d93a8ba478f52abb7f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\RICARDO\.android\build-cache\d754cabc1944d6de1b1732e30fe26bbfed2e09d5\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\RICARDO\.android\build-cache\62899c57f7354df5c3cbd1f62670f55215438a58\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\9361a9fa9de698745abb3ecfe80267ca3fb1cd8b\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\d40b8c30fb1200d44cb13d66710a395b51cbae49\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\6c01c9b8778cfaade62c995dadeef9413b8ef71b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\ae6f74c8a3b2b6e3846d42b417744ece11a6c03c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\0afc0c085a570d3b6cc867814e66f58bdc15fd87\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\07ede37c14cccc5265926dc2395dccabbc188f21\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\85bde1292e6c306fb06d3143955cf4d37af94de0\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\da5150f6901d5f71059ace6d219a708fd982b44b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\85bde1292e6c306fb06d3143955cf4d37af94de0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\c300a6877e78be07d94087b63ca83603d5a7ec68\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\d4434ff67597103ecb8a858466469eed0a7a05c9\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\ffe68e76c8f6b2c1652d68e9ed7d724ee199c13b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\7f98fab2015069918415c5f82041c79e59e86cc1\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\44b5a03dcbe10ec093b23334751dd95759635155\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\9361a9fa9de698745abb3ecfe80267ca3fb1cd8b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\d40b8c30fb1200d44cb13d66710a395b51cbae49\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\6c01c9b8778cfaade62c995dadeef9413b8ef71b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\ae6f74c8a3b2b6e3846d42b417744ece11a6c03c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\0afc0c085a570d3b6cc867814e66f58bdc15fd87\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\07ede37c14cccc5265926dc2395dccabbc188f21\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\da5150f6901d5f71059ace6d219a708fd982b44b\output\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\RICARDO\.android\build-cache\da5150f6901d5f71059ace6d219a708fd982b44b\output\AndroidManifest.xml:23:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\RICARDO\.android\build-cache\8abe1ed82e0dc835c00964229ce0360e98cfc362\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\RICARDO\.android\build-cache\8abe1ed82e0dc835c00964229ce0360e98cfc362\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\RICARDO\.android\build-cache\8abe1ed82e0dc835c00964229ce0360e98cfc362\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\RICARDO\.android\build-cache\8abe1ed82e0dc835c00964229ce0360e98cfc362\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\RICARDO\.android\build-cache\234da3a76d7c34f2b615ee504dcbbf95250586d5\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\RICARDO\.android\build-cache\234da3a76d7c34f2b615ee504dcbbf95250586d5\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\RICARDO\.android\build-cache\234da3a76d7c34f2b615ee504dcbbf95250586d5\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\RICARDO\.android\build-cache\234da3a76d7c34f2b615ee504dcbbf95250586d5\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\RICARDO\.android\build-cache\3fb380a48fce55fcb94182160db42c09b8bf6006\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\RICARDO\.android\build-cache\e0ba0e60ef73ddeeecca068e3548574f1634f820\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\RICARDO\.android\build-cache\734c28e1ba8d499fd6fcb4d93a8ba478f52abb7f\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\RICARDO\.android\build-cache\734c28e1ba8d499fd6fcb4d93a8ba478f52abb7f\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\RICARDO\.android\build-cache\734c28e1ba8d499fd6fcb4d93a8ba478f52abb7f\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\RICARDO\.android\build-cache\734c28e1ba8d499fd6fcb4d93a8ba478f52abb7f\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\RICARDO\.android\build-cache\734c28e1ba8d499fd6fcb4d93a8ba478f52abb7f\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\RICARDO\.android\build-cache\62899c57f7354df5c3cbd1f62670f55215438a58\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\RICARDO\.android\build-cache\62899c57f7354df5c3cbd1f62670f55215438a58\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\RICARDO\.android\build-cache\62899c57f7354df5c3cbd1f62670f55215438a58\output\AndroidManifest.xml:20:20-65

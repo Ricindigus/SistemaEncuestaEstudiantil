@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">SEE App</string>
+    <string name="titulo_sistema_encuesta">SISTEMA DE ENCUESTA ESTUDIANTIL</string>
+    <string name="texto_see">SEE</string>
+
+
+    <string name="conocimiento_titulo">A.CONOCIMIENTO DE LA MATERIA</string>
+    <string name="conocimiento_pregunta1">1.Demuestra dominio de la materia</string>
+    <string name="conocimiento_pregunta2">2.Desarrolla los contenidos con amplitud y profundidad</string>
+    <string name="conocimiento_pregunta3">3.Sus exposiciones son entendibles y comprensibles</string>
+    <string name="conocimiento_pregunta4">4.Demuestra solvencia frente a las preguntas planteadas por los estudiantes sobre el tema</string>
+
+    <string name="asistencia_titulo">B.ASISTENCIA Y PUNTUALIDAD</string>
+    <string name="asistencia_pregunta1">1.Asiste a clases de acuerdo a lo programado en el sílabo</string>
+    <string name="asistencia_pregunta2">2.Cumple puntualmente con el horario establecido</string>
+
+    <string name="etica_titulo">C.ÉTICA</string>
+    <string name="etica_pregunta1">1.Demuestra valores éticos en su andar diario</string>
+
+    <string name="capacidad_titulo">D.CAPACIDAD DIDÁCTICA</string>
+    <string name="capacidad_pregunta1">1.Utiliza técnicas didácticas arpropiadas</string>
+    <string name="capacidad_pregunta2">2.Promueve la participación activa de los alumnos</string>
+    <string name="capacidad_pregunta3">3.La evaluación del aprendizaje del alumno es objetiva de acuerdo a lo establecido</string>
+
+    <string name="cumplimiento_titulo">E.CUMPLIMIENTO DEL SÍLABO</string>
+    <string name="cumplimiento_pregunta1">1.Cumple la programación de acuerdo a lo establecido en el sílabo</string>
+
+    <string name="puntaje025">0.25</string>
+    <string name="puntaje050">0.50</string>
+    <string name="puntaje075">0.75</string>
+    <string name="puntaje100">1.00</string>
+    <string name="texto_finalizar">Has culminado la Encuesta Estudiantil \nGracias por participar</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

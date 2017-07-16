@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\RICARDO\.android\build-cache\da5150f6901d5f71059ace6d219a708fd982b44b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea121397185c5b45f663c196d75a67f18854cd84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c2d145c5d3f1e051b92de9abd94e6a13b1c13fa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RICARDO\.android\build-cache\dd92c37ad15f9a3e09732d69820b0d23b6fe6bf9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7328bae8421b2880fd85a9c15fe0e4dbc8d0bcce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RICARDO\.android\build-cache\241a7bcb5d5e020f038a1d88d7d3709e37135350\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1582dcd28dff7b3ed1a42cb9014cc081e657a08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RICARDO\.android\build-cache\8abe1ed82e0dc835c00964229ce0360e98cfc362\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca5a25057a5b3841b933364928b036bed00d1633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RICARDO\.android\build-cache\c2021e866d7a4ce524576abe14f2fe97b7b15b89\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d94940ddde71cc57402c78b7d8c335d61958f486">
+        <dex dex="C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d30cd77602434d95edf231a00c4f0aa4649dc973\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ece050b23c594c094d38304395cc9227c1d18a09">
+        <dex dex="C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4e6844ea60b922d92bfdc4b937c20b9b65f1d841\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RICARDO\.android\build-cache\f83852f017fbf3d34f378d9ae145732ea8030a7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3013ffee567202ddab82286ac45b28fcb1e7926a">
+        <dex dex="C:\Users\RICARDO\AndroidStudioProjects\SistemaEncuestaEstudiantil\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_907a2bf5a737e834a95da88d867b3521aeb9de3e\classes.dex" />
+    </item>
+
+</items>
